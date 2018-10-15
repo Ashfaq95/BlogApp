@@ -1,0 +1,9 @@
+F:\VC#ASP.NET\BlogApp\AdminEntity\bin\Debug\AdminEntity.dll.config
+F:\VC#ASP.NET\BlogApp\AdminEntity\bin\Debug\AdminEntity.dll
+F:\VC#ASP.NET\BlogApp\AdminEntity\bin\Debug\AdminEntity.pdb
+F:\VC#ASP.NET\BlogApp\AdminEntity\bin\Debug\EntityFramework.dll
+F:\VC#ASP.NET\BlogApp\AdminEntity\bin\Debug\EntityFramework.SqlServer.dll
+F:\VC#ASP.NET\BlogApp\AdminEntity\bin\Debug\EntityFramework.xml
+F:\VC#ASP.NET\BlogApp\AdminEntity\bin\Debug\EntityFramework.SqlServer.xml
+F:\VC#ASP.NET\BlogApp\AdminEntity\obj\Debug\AdminEntity.dll
+F:\VC#ASP.NET\BlogApp\AdminEntity\obj\Debug\AdminEntity.pdb

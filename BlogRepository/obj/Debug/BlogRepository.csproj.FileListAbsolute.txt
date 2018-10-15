@@ -1,0 +1,12 @@
+F:\VC#ASP.NET\BlogApp\BlogRepository\bin\Debug\BlogRepository.dll
+F:\VC#ASP.NET\BlogApp\BlogRepository\bin\Debug\BlogRepository.pdb
+F:\VC#ASP.NET\BlogApp\BlogRepository\obj\Debug\BlogRepository.dll
+F:\VC#ASP.NET\BlogApp\BlogRepository\obj\Debug\BlogRepository.pdb
+F:\VC#ASP.NET\BlogApp\BlogRepository\obj\Debug\BlogRepository.csprojResolveAssemblyReference.cache
+F:\VC#ASP.NET\BlogApp\BlogRepository\bin\Debug\BlogRepository.dll.config
+F:\VC#ASP.NET\BlogApp\BlogRepository\bin\Debug\BlogEntity.dll
+F:\VC#ASP.NET\BlogApp\BlogRepository\bin\Debug\EntityFramework.dll
+F:\VC#ASP.NET\BlogApp\BlogRepository\bin\Debug\EntityFramework.SqlServer.dll
+F:\VC#ASP.NET\BlogApp\BlogRepository\bin\Debug\BlogEntity.pdb
+F:\VC#ASP.NET\BlogApp\BlogRepository\bin\Debug\EntityFramework.xml
+F:\VC#ASP.NET\BlogApp\BlogRepository\bin\Debug\EntityFramework.SqlServer.xml

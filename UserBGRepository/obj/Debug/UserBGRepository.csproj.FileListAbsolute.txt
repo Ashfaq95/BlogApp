@@ -1,0 +1,13 @@
+F:\VC#ASP.NET\BlogApp\UserBGRepository\obj\Debug\UserBGRepository.csprojResolveAssemblyReference.cache
+F:\VC#ASP.NET\BlogApp\UserBGRepository\bin\Debug\UserBGRepository.dll
+F:\VC#ASP.NET\BlogApp\UserBGRepository\bin\Debug\UserBGRepository.pdb
+F:\VC#ASP.NET\BlogApp\UserBGRepository\bin\Debug\Microsoft.Data.Entity.Design.Extensibility.dll
+F:\VC#ASP.NET\BlogApp\UserBGRepository\bin\Debug\UserBGEntity.dll
+F:\VC#ASP.NET\BlogApp\UserBGRepository\bin\Debug\UserBGEntity.pdb
+F:\VC#ASP.NET\BlogApp\UserBGRepository\obj\Debug\UserBGRepository.dll
+F:\VC#ASP.NET\BlogApp\UserBGRepository\obj\Debug\UserBGRepository.pdb
+F:\VC#ASP.NET\BlogApp\UserBGRepository\bin\Debug\UserBGRepository.dll.config
+F:\VC#ASP.NET\BlogApp\UserBGRepository\bin\Debug\EntityFramework.dll
+F:\VC#ASP.NET\BlogApp\UserBGRepository\bin\Debug\EntityFramework.SqlServer.dll
+F:\VC#ASP.NET\BlogApp\UserBGRepository\bin\Debug\EntityFramework.xml
+F:\VC#ASP.NET\BlogApp\UserBGRepository\bin\Debug\EntityFramework.SqlServer.xml

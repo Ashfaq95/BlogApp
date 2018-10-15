@@ -1,0 +1,9 @@
+F:\VC#ASP.NET\BlogApp\BlogEntity\bin\Debug\BlogEntity.dll
+F:\VC#ASP.NET\BlogApp\BlogEntity\bin\Debug\BlogEntity.pdb
+F:\VC#ASP.NET\BlogApp\BlogEntity\obj\Debug\BlogEntity.dll
+F:\VC#ASP.NET\BlogApp\BlogEntity\obj\Debug\BlogEntity.pdb
+F:\VC#ASP.NET\BlogApp\BlogEntity\bin\Debug\BlogEntity.dll.config
+F:\VC#ASP.NET\BlogApp\BlogEntity\bin\Debug\EntityFramework.dll
+F:\VC#ASP.NET\BlogApp\BlogEntity\bin\Debug\EntityFramework.SqlServer.dll
+F:\VC#ASP.NET\BlogApp\BlogEntity\bin\Debug\EntityFramework.xml
+F:\VC#ASP.NET\BlogApp\BlogEntity\bin\Debug\EntityFramework.SqlServer.xml

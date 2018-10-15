@@ -1,0 +1,10 @@
+F:\VC#ASP.NET\BlogApp\UserBGEntity\bin\Debug\UserBGEntity.dll
+F:\VC#ASP.NET\BlogApp\UserBGEntity\bin\Debug\UserBGEntity.pdb
+F:\VC#ASP.NET\BlogApp\UserBGEntity\obj\Debug\UserBGEntity.dll
+F:\VC#ASP.NET\BlogApp\UserBGEntity\obj\Debug\UserBGEntity.pdb
+F:\VC#ASP.NET\BlogApp\UserBGEntity\bin\Debug\Microsoft.Data.Entity.Design.Extensibility.dll
+F:\VC#ASP.NET\BlogApp\UserBGEntity\bin\Debug\UserBGEntity.dll.config
+F:\VC#ASP.NET\BlogApp\UserBGEntity\bin\Debug\EntityFramework.dll
+F:\VC#ASP.NET\BlogApp\UserBGEntity\bin\Debug\EntityFramework.SqlServer.dll
+F:\VC#ASP.NET\BlogApp\UserBGEntity\bin\Debug\EntityFramework.xml
+F:\VC#ASP.NET\BlogApp\UserBGEntity\bin\Debug\EntityFramework.SqlServer.xml
